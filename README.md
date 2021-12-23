@@ -11,4 +11,4 @@ The link below is for landing page for educational website.<br>
 The link below is for drumkit playground website.<br>
 [DrumKit](https://mayank5112.github.io/myProjects/TheDrumKit/index.html)<br>
 The link below is for simon game  website.<br>
-[TheSimonGame](https://mayank5112.github.io/myProjects/mysimongame/index.html)<br>
+[TheSimonGame](https://mayank5112.github.io/myProjects/mySimonGame/index.html)<br>
